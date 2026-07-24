@@ -11,7 +11,7 @@ Traditional laboratory equipment borrowing processes can be overwhelming, unorga
 * **Product Owner:** Cardenas, Mia Gabrielle C.
 * **Scrum Master:** Aclan, Althea Denise P.
 * **Lead Dev (Full Stack):** Santilices, Rea Joy I.
-* **Lead Dev (IoT/Hardware):** Napiza, Emmanuel Joseph
+* **Lead Dev (IoT/Hardware):** Napiza, Emmanuel Joseph B.
 * **QA / DevOps:** Adarayan, Alvin James
 
 ## Planned Technology Stack
@@ -40,6 +40,11 @@ Traditional laboratory equipment borrowing processes can be overwhelming, unorga
 4. Run `npm install` in the backend and frontend directories.
 5. Start the development server using `npm start`.
 
-## Security Reminder and AI Disclosure
-* **Security:** Never commit passwords, tokens, API keys, connection strings, or a real `.env` file to this repository. Always use `.env.example` with placeholders.
-* **AI Disclosure:** Authorized AI tools may be used as tutors for brainstorming or debugging assistance. All team members remain responsible for the correctness, originality, and explanation of all submitted code.
+## Security and AI Disclosure
+
+### AI Tools Usage Disclosure
+- **AI Tools Used:** ChatGPT (OpenAI) and Gemini (Google AI)
+- **Specific Parts Used:** 
+  - **ChatGPT:** Utilized to verify, outline, and structure the core user interface workflow and system navigation logic (as suggested by the Product Owner).
+  - **Gemini:** Assisted the developer in troubleshooting Git version control workflows, specifically resolving VS Code staging errors, formatting strict commit messages, and safely navigating GitHub Pull Request updates to align with the team's Git Etiquette.
+- **Student Responsibility:** All technical configurations, hardware integrations (ESP32 and RFID), documentation layouts, and final verifications were personally reviewed, executed, and approved by the student developer (Adarayan, Alvin James).
