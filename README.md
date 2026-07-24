@@ -8,12 +8,11 @@ Traditional laboratory equipment borrowing processes can be overwhelming, unorga
 * **Stakeholder Value:** Provides a clean, role-based, progressive disclosure interface that prevents cognitive overload. It ensures accurate real-time inventory tracking, secures transactions via ESP32/RFID hardware authentication, and features a proactive rule-based AI that automatically recommends complementary equipment (e.g., breadboards and jumper wires for microcontrollers) to streamline the checkout process.
 
 ## Team Members and Roles
-* **Product Owner:** Aclan
-* **Scrum Master:** Rea Joy
-* **Developer(s):** EJ
-* **QA/Reviewer:** Rea Joy
-* **DevOps/Configuration Lead:** James Alvin
-* **Documentation Lead:** Gabbie
+* **Product Owner:** Cardenas, Mia Gabrielle C.
+* **Scrum Master:** Aclan, Althea Denise P.
+* **Lead Dev (Full Stack):** Santilices, Rea Joy I.
+* **Lead Dev (IoT/Hardware):** Napiza, Emmanuel Joseph
+* **QA / DevOps:** Adarayan, Alvin James
 
 ## Planned Technology Stack
 * **Frontend:** [e.g., React, HTML/CSS]
